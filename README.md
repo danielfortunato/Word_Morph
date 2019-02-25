@@ -1,0 +1,2 @@
+# Word_Morph
+In this project we intended to develop a program that is capable of producing "paths" between words. A path between two words of the same size, given the starting point and the point of arrival, is understood to be a sequence of words of equal size, in which each word is obtained from its predecessor by replacing it with one or more characters by another (s). The resolution of this problem presupposes the existence of a dictionary and all the words of the path must belong to the dictionary.
